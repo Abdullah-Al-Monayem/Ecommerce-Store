@@ -1,0 +1,5 @@
+Admin Login Details:
+Admin Email: admin@gmail.com
+Admin Password: 12345
+
+Enjoy!!
